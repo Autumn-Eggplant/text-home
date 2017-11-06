@@ -1,0 +1,16 @@
+= Title of Presentation 
+Presenter Name
+:backend: deckjs
+:deckjs_transition: fade
+:navigation:
+
+== Title of Slide One 
+
+This is the first slide after the title slide.
+
+[canvas-image=images/example.jpg] 
+== Slide Two's Title will not be displayed 
+
+[.canvas-caption, position=center-up] 
+This text is displayed on top of the example.jpg image.
+

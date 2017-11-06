@@ -1,0 +1,6 @@
+[submodule "asciidoc/asciidoc-slide/asciidoctor-deck.js"]
+	path = asciidoc/asciidoc-slide/asciidoctor-deck.js
+	url = https://github.com/asciidoctor/asciidoctor-deck.js
+[submodule "asciidoc/asciidoc-slide/deck.js"]
+	path = asciidoc/asciidoc-slide/deck.js
+	url = https://github.com/imakewebthings/deck.js.git
