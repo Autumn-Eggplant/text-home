@@ -4,3 +4,6 @@
 [submodule "asciidoc/asciidoc-slide/deck.js"]
 	path = asciidoc/asciidoc-slide/deck.js
 	url = https://github.com/imakewebthings/deck.js.git
+[submodule "redpen"]
+	path = redpen
+	url = https://github.com/redpen-cc/redpen.git
